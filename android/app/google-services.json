@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312097070700",
+    "project_id": "dam-martinvegaapp",
+    "storage_bucket": "dam-martinvegaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312097070700:android:3c2bec4da274450acac249",
+        "android_client_info": {
+          "package_name": "com.dam.proyecto_dam_martinvega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnJ2UlOtJPSPJq7_gXZWcTrFRKh653_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
